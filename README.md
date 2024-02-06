@@ -4,8 +4,6 @@
 
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunraguram&label=Profile%20views&color=0e75b6&style=flat" alt="varunraguram" /> </p>
-<img src="ezgif.com-optimize.gif" alt="Description of the image">
-
 - 🌱 I’m currently learning **java , Android Studio**
 
 - 📫 How to reach me **varunraguraman@gmail.com**
@@ -43,7 +41,7 @@ varun-s-96b2b529b
 
 Looking forward to sharing and collaborating on exciting projects! 🚀
 
-
+<img src="ezgif.com-optimize.gif" alt="Description of the image">
 <h3 align="left">Connect with me:</h3>
 
 <a href="linkedin.com/in/varun-s-63a663220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun s" height="30" width="40" /></a>
