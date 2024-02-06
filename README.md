@@ -1,6 +1,6 @@
 <img src=image/1_OxT7UjIwhklKE8d8SFyo7g.gif alt="MasterHead" data-canonical-src="https://cdn-images-1.medium.com/fit/t/1500/380/1*OF0xEMkWBv-69zvmNs6RDQ.gif" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm varun</h1>
-<h3 align="center">"The Life and Work of a Program Developer"</h3>
+<h3 align="center">The Life and Work of a Program Developer</h3>
 <img align ="right"alt="codeing" width="275"src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunraguram&label=Profile%20views&color=0e75b6&style=flat" alt="varunraguram" /> </p>
@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Computer programming played an important role in ending World War II.**
 - # About Me
 
-Hello there! 👋 I'm [Your Name], and this is my GitHub repository.
+Hello there! 👋 I'm   VARUN S , and this is my GitHub repository.
 
 ## Professional Background
 
@@ -39,7 +39,7 @@ Hello there! 👋 I'm [Your Name], and this is my GitHub repository.
 Feel free to reach out if you have any questions or would like to connect:
 
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Varun S](https://www.linkedin.com/in/your-profile)
 
 Looking forward to sharing and collaborating on exciting projects! 🚀
 
