@@ -1,10 +1,9 @@
 <img src=image/1_OxT7UjIwhklKE8d8SFyo7g.gif alt="MasterHead" data-canonical-src="https://cdn-images-1.medium.com/fit/t/1500/380/1*OF0xEMkWBv-69zvmNs6RDQ.gif" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm varun</h1>
-<h3 align="center">"Code Creator: The Life and Work of a Program Developer"</h3>
+<h3 align="center">"The Life and Work of a Program Developer"</h3>
 <img align ="right"alt="codeing" width="275"src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunraguram&label=Profile%20views&color=0e75b6&style=flat" alt="varunraguram" /> </p>
-
 <img src="ezgif.com-optimize.gif" alt="Description of the image">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunraguram" alt="varunraguram" /></a> </p>
@@ -14,6 +13,36 @@
 - 📫 How to reach me **varunraguraman@gmail.com**
 
 - ⚡ Fun fact **Computer programming played an important role in ending World War II.**
+- # About Me
+
+Hello there! 👋 I'm [Your Name], and this is my GitHub repository.
+
+## Professional Background
+
+- I attended a campus interview and was placed in **MSPACE DRONE TECHNOLOGY**.
+- I worked at MSPACE DRONE TECHNOLOGY, where I gained valuable knowledge as a software developer, focusing on **Mapping and Image Processing**.
+
+## Experience Highlights
+
+- **Company:** MSPACE DRONE TECHNOLOGY
+- **Role:** Software Developer
+- **Specialization:** Mapping and Image Processing
+
+## Achievements
+
+- Successfully contributed to projects involving mapping and image processing.
+- Gained hands-on experience in software development within the drone technology domain.
+- Developed skills in various aspects of mapping and image processing.
+
+## Contact
+
+Feel free to reach out if you have any questions or would like to connect:
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+Looking forward to sharing and collaborating on exciting projects! 🚀
+
 
 <h3 align="left">Connect with me:</h3>
 
