@@ -39,7 +39,9 @@ Hello there! 👋 I'm   VARUN S , and this is my GitHub repository.
 Feel free to reach out if you have any questions or would like to connect:
 
 - Email: your.email@example.com
-- LinkedIn: [Varun S](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Varun S](www.linkedin.com/in/
+varun-s-96b2b529b
+)
 
 Looking forward to sharing and collaborating on exciting projects! 🚀
 
